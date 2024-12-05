@@ -50,6 +50,23 @@
         </div>
     </section>
 
+    <!-- Founders Section -->
+    <section class="testimonials" id="founders">
+        <h2>Meet Our Founders</h2>
+        <div class="testimonial-cards">
+            <div class="testimonial-card">
+                <img src="<?=ROOT?>/assets/img/maz.jpg" alt="Oni Adesola Ayomide" style="border-radius: 50%" height="150px" width="150px">
+                <h3>Oni Adesola Ayomide</h3>
+                <p>Software Developer; <a href="www.linkedin.com/in/adesolaoni"  target="_blank">Linkedin Profile</a></p>
+            </div>
+            <div class="testimonial-card">
+                <img src="<?=ROOT?>/assets/img/mesh.jpeg" alt="Meshac Mama Eberenna" style="border-radius: 50%" height="150px" width="150px">
+                <h3>Meshac Mama Eberenna</h3>
+                <p>Software Developer; <a href="https://ng.linkedin.com/in/meshac-paul-b07bb81a2"  target="_blank">Linkedin Profile</a></p>
+            </div>
+        </div>
+    </section>
+
     <!-- How It Works Section -->
     <section class="how-it-works" id="how-it-works">
         <h2>How It Works</h2>

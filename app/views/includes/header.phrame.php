@@ -27,6 +27,7 @@
                 <a href="<?=ROOT?>">Home</a>
                 <a href="#features">Features</a>
                 <a href="#why-choose">Why Us</a>
+                <a href="#founders">Founders</a>
                 <a href="#contact">Contact</a>
             </div>
             <div class="burger" id="burger">
