@@ -25,6 +25,17 @@ if((empty($_SERVER['SERVER_NAME']) && php_sapi_name() == 'cli') || (!empty($_SER
 	define('ROOT', 'https://www.phphrame.com.ng');
 
 }
+// {
+// 	/** database config **/
+// 	define('DBNAME', 'icei_38544032_phphrame');
+// 	define('DBHOST', 'sql112.iceiy.com');
+// 	define('DBUSER', 'icei_38544032');
+// 	define('DBPASS', 'YKkWJ9wzgxAr');
+// 	define('DBDRIVER', '');
+
+// 	define('ROOT', 'http://phphrame.iceiy.com/');
+
+// }
 
 define('APP_NAME', "PHPhrame Framework");
 define('APP_DESC', "Documentation for the PHP MVC Framework with OOP");
